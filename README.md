@@ -138,8 +138,3 @@ print("\nDecrypted Text:", decrypted_text)
 
 ## Result :
    The program is executed successfully
-
-
-
-
-Output:
